@@ -1,2 +1,3 @@
 # tutedude-EMS
-Employee management System
+Employee management System.
+This is my first GIT repository.
